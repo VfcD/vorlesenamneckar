@@ -1,5 +1,6 @@
 ## Vorlesen am Neckar in Mannheim
 *Ein Moment zum Zuhören, Lesen und Nachdenken.*
+
 ![buddhism cat](http://farm3.static.flickr.com/2421/3621108718_d918eba552.jpg)
 
 # Nächster Termin: 
