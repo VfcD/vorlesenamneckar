@@ -1,10 +1,10 @@
 ## Vorlesen am Neckar in Mannheim
 *Ein Moment zum Zuhören, Lesen und Nachdenken.*
 
-![buddhism cat](http://farm3.static.flickr.com/2421/3621108718_d918eba552.jpg)
+![buddhism cat](cat.jpeg)
 
 # Nächster Termin: 27.07.2017 - 19:15 Uhr
-~~23.07.2017, 19 Uhr, Basementbikes Mannheim ~~[link](https://www.google.com/maps/place/Basement+Bikes/@49.4956633,8.4562838,17z/data=!3m1!4b1!4m5!3m4!1s0x4797cc373fe60bcb:0x7adbc0eea8cd49f5!8m2!3d49.4956633!4d8.4584725?hl=en) 
+~~23.07.2017, 19 Uhr, Basementbikes Mannheim~~ [link](https://www.google.com/maps/place/Basement+Bikes/@49.4956633,8.4562838,17z/data=!3m1!4b1!4m5!3m4!1s0x4797cc373fe60bcb:0x7adbc0eea8cd49f5!8m2!3d49.4956633!4d8.4584725?hl=en) 
 
 **Treffpunkt:**
   unterhalb der Schnecke/Windmühle in der Neckarstadt Ost, 
