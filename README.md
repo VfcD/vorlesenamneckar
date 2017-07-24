@@ -12,18 +12,4 @@
 
 **Google Maps:** [hier](https://www.google.com/maps/place/49%C2%B029'34.9%22N+8%C2%B028'44.4%22E/@49.4930279,8.4784538,155m/data=!3m2!1e3!4b1!4m5!3m4!1s0x0:0x0!8m2!3d49.493027!4d8.479001?hl=en)
 
-
-
-<iframe id="forum_embed"
-  src="javascript:void(0)"
-  scrolling="no"
-  frameborder="0"
-  width="900"
-  height="700">
-</iframe>
-<script type="text/javascript">
-  document.getElementById('forum_embed').src =
-     'https://groups.google.com/forum/embed/?place=forum/vorlesenamneckar'
-     + '&showsearch=true&showpopout=true&showtabs=false'
-     + '&parenturl=' + encodeURIComponent(window.location.href);
-</script> 
+**Absprache via Doodle:** [hier](https://doodle.com/poll/ddx3a8yffe9hvtrq)
