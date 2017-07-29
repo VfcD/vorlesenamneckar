@@ -13,4 +13,4 @@
 
 **Google Maps:** [hier](https://www.google.com/maps/place/49%C2%B029'34.9%22N+8%C2%B028'44.4%22E/@49.4930279,8.4784538,155m/data=!3m2!1e3!4b1!4m5!3m4!1s0x0:0x0!8m2!3d49.493027!4d8.479001?hl=en)
 
-**Absprache via Doodle:** [hier](https://doodle.com/poll/ddx3a8yffe9hvtrq)
+**Absprache via Doodle:** [hier](https://beta.doodle.com/poll/gqbxdyftytypbyqe)
